@@ -30,7 +30,7 @@ public class Main {
     }
 }
 
-// ----------------- Two-Way Linked List -----------------
+// Two-Way Linked List -----------------
 
 class TwoWayLinkedList<E> {
     static class Node<E> {
